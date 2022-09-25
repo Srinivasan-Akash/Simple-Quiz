@@ -33,7 +33,6 @@ Go to the project directory
 
 ## 📝 Features
 
-- Sound Effects
 - bg effects
 - Score counting
 - Hosted on Netlify and set up in production
